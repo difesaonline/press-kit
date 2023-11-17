@@ -1,3 +1,3 @@
 # press-kit
-Difesa Visual Identity
-Manual corporativo y papeleria.
+Difesa Visual Identity. 
+En esta carpeta está el Manual corporativo y papeleria en formatos originales y en pdf. Tambien el logotipo e imagotipo vectorizados.
